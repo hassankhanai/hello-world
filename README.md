@@ -1,5 +1,5 @@
-# hello-world
-First learning repo
-
-# its our first github repo 
-and we both are noobs
+# main.py (working)
+date : 4/12/25
+work in main.py
+- python variables
+- Python loops
